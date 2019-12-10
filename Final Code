@@ -1,0 +1,35 @@
+<h1> Gould Apiary Products </h1>
+<img
+src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.0-9/69232785_122354785789431_7623601112569872384_n.jpg?_nc_cat=109&_nc_oc=AQlkm0MTJGwpW1iWrYHTNsdr3RPQR5r2kamu8F19jhfQiieUw64PS8XhYutcQtnpikcAkp3A4xHT6hDI1rfuz1Sj&_nc_ht=scontent-msp1-1.xx&oh=a5815e337e95b56c296533eb08462b10&oe=5E618BF0" height="400" width="400">
+
+<h2> About Us </h2>
+
+<p> Hi! My name is Chase Gould and I make honey products out of Zimmerman, Minnesota, with my brothers. </p>
+
+<p><b> Products we Offer: </b></p>
+<ul> <li> Honey </li>
+ <li> Honeycomb </li>
+ <li> Soap </li>
+ <li> Beard Wax </li>
+ <li> Lip Balm </li>
+  <li> Lotion Bars </li></ul>
+ 
+ <h2> Contact Us </h2>
+  <p> Call (763) 498-4162 or we will reach out to you!</p>
+   
+  <h1>Contact Form</h1>
+    <input type="text" name="name" placeholder="First Name">
+      <input type="text" name="name" placeholder="Last Name">
+        <input type="text" name="name" placeholder="Phone Number"><br><br>
+  <select>
+    <option>I am: </option>
+    <option>interested in more info</option>
+    <option>a business/store owner</option>
+    <option>a current customer</option>
+    <option>Other</option>
+</select><br><br>
+    <textarea rows="5" cols="20" placeholder="Message Here"></textarea><br><br>
+  <button>Submit</button>
+  </frame>
+</form><br><br>
+<footer><b>Copyright&copy; K. Ruhl 2019</b></footer>
